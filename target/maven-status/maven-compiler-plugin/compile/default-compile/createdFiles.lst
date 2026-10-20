@@ -1,0 +1,7 @@
+br\edu\entregas\repository\MercadoriaRepository.class
+br\edu\entregas\util\Validador.class
+br\edu\entregas\Main.class
+br\edu\entregas\model\Mercadoria.class
+br\edu\entregas\service\EntregaService.class
+br\edu\entregas\model\Endereco.class
+br\edu\entregas\service\LoginService.class
